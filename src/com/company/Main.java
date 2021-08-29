@@ -6,7 +6,5 @@ public class Main {
         System.out.println("welcome to intelj");
         System.out.println("welcome to intelj");
         System.out.println("welcome to intelj");
-        System.out.println("welcome to intelj");
-        System.out.println("welcome to intelj");
     }
 }
